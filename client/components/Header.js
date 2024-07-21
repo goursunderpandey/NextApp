@@ -19,7 +19,7 @@ const Header = () => {
 
     ]
     return (
-        <div className='p-4 pb-3 pl-10 border-b-[$px] border-white-200 flex items-center justify-between'>
+        <div className='p-4 pb-3 pl-10 border-b-[$20px] border-gray-200 flex items-center justify-between'>
             <div className='flex gap-20 items-center'>
                 <Image src='/easydrop.png'
                     width={50} height={50}
